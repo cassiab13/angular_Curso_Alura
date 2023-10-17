@@ -1,0 +1,60 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que vc veio",
+      "autoria": "Nay",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "id": 2,
+      "conteudo": "Leo lindo",
+      "autoria": "Cassia",
+      "modelo": "modelo2",
+      "favorito": true
+    },
+    {
+      "id": 3,
+      "conteudo": "Volte sempre",
+      "autoria": "Leo",
+      "modelo": "modelo3",
+      "favorito": true
+    },
+    {
+      "id": 4,
+      "conteudo": "Novo pensamento editado",
+      "autoria": "Dev",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "id": 5,
+      "conteudo": "asdfsdfs",
+      "autoria": "sdfasfds",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "conteudo": "Teste de pensamento",
+      "autoria": "asdf",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 6
+    },
+    {
+      "conteudo": "sdfas",
+      "autoria": "asdfasd",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 7
+    },
+    {
+      "conteudo": "Adicionando componente",
+      "autoria": "Cassia",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 8
+    }
+  ]
+}

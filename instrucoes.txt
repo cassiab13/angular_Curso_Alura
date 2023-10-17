@@ -1,0 +1,4 @@
+npm install -g @angular/cli@14.0.0
+npx ng new memoteca
+npx ng serve
+npx ng g c home (criar componente)
